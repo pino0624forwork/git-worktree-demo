@@ -4,6 +4,7 @@ import SocialProof from './components/SocialProof';
 import Features from './components/Features';
 import UseCases from './components/UseCases';
 import Pricing from './components/Pricing';
+import QA from './components/QA';
 import CallToAction from './components/CallToAction';
 import Footer from './components/Footer';
 import CookieConsent from './components/CookieConsent';
@@ -15,6 +16,7 @@ function App() {
             <main>
                 <Hero />
                 <SocialProof />
+                <QA />
                 <Features />
                 <UseCases />
                 <Pricing />
