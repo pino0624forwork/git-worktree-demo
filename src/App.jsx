@@ -15,10 +15,10 @@ function App() {
             <main>
                 <Hero />
                 <SocialProof />
+                <QA />
                 <Features />
                 <UseCases />
                 <Pricing />
-                <QA />
                 <CallToAction />
             </main>
             <Footer />
